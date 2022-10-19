@@ -21,7 +21,7 @@
 //#define serialNotecard Serial1
 #define serialDebug Serial
 
-#define productUID "edu.wpi.alum.jlutz:test_project"
+#define productUID "xxxx"
 Notecard notecard;
 I2CDriver i2c = I2CDriver();
 //results struct from the useful sensor
